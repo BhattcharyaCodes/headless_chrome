@@ -9,3 +9,6 @@ Puppeteer is a Node library developed by the Chrome team. It provides a high-lev
 Pre-requisite:
 Install Puppeteer with the npm package: npm i puppeteer
 Also, create a JavaScript file in which we’ll write code to demonstrate Puppeteer, you can name it puppeteer.js. Edit the newly created file with the code.
+
+
+more info: https://blog.logrocket.com/introduction-to-headless-browser-testing-44b82310b27c/
